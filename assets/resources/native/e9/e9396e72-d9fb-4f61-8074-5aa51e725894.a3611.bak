@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "dealerPath": "ui_common/card/profile_illust_dealer/spriteFrame",
+  "avatars": [
+    {
+      "id": "avatar_001",
+      "path": "ui_common/card/profile_illust_001/spriteFrame",
+      "name": "붉은 여우"
+    },
+    {
+      "id": "avatar_002",
+      "path": "ui_common/card/profile_illust_002/spriteFrame",
+      "name": "푸른 늑대"
+    },
+    {
+      "id": "avatar_003",
+      "path": "ui_common/card/profile_illust_003/spriteFrame",
+      "name": "황금 독수리"
+    },
+    {
+      "id": "avatar_004",
+      "path": "ui_common/card/profile_illust_004/spriteFrame",
+      "name": "검은 표범"
+    },
+    {
+      "id": "avatar_005",
+      "path": "ui_common/card/profile_illust_005/spriteFrame",
+      "name": "은빛 상어"
+    },
+    {
+      "id": "avatar_006",
+      "path": "ui_common/card/profile_illust_006/spriteFrame",
+      "name": "초록 뱀"
+    },
+    {
+      "id": "avatar_007",
+      "path": "ui_common/card/profile_illust_007/spriteFrame",
+      "name": "흰 부엉이"
+    },
+    {
+      "id": "avatar_008",
+      "path": "ui_common/card/profile_illust_008/spriteFrame",
+      "name": "회색 곰"
+    },
+    {
+      "id": "avatar_009",
+      "path": "ui_common/card/profile_illust_009/spriteFrame",
+      "name": "주홍 매"
+    },
+    {
+      "id": "avatar_010",
+      "path": "ui_common/card/profile_illust_010/spriteFrame",
+      "name": "청록 돌고래"
+    },
+    {
+      "id": "avatar_011",
+      "path": "ui_common/card/profile_illust_011/spriteFrame",
+      "name": "보라 까마귀"
+    },
+    {
+      "id": "avatar_012",
+      "path": "ui_common/card/profile_illust_012/spriteFrame",
+      "name": "노란 살쾡이"
+    },
+    {
+      "id": "avatar_013",
+      "path": "ui_common/card/profile_illust_013/spriteFrame",
+      "name": "남색 고래"
+    },
+    {
+      "id": "avatar_014",
+      "path": "ui_common/card/profile_illust_014/spriteFrame",
+      "name": "주황 여우"
+    },
+    {
+      "id": "avatar_015",
+      "path": "ui_common/card/profile_illust_015/spriteFrame",
+      "name": "자주 매"
+    },
+    {
+      "id": "avatar_016",
+      "path": "ui_common/card/profile_illust_016/spriteFrame",
+      "name": "연두 도마뱀"
+    },
+    {
+      "id": "avatar_017",
+      "path": "ui_common/card/profile_illust_017/spriteFrame",
+      "name": "하늘 제비"
+    },
+    {
+      "id": "avatar_018",
+      "path": "ui_common/card/profile_illust_018/spriteFrame",
+      "name": "밤색 사슴"
+    },
+    {
+      "id": "avatar_019",
+      "path": "ui_common/card/profile_illust_019/spriteFrame",
+      "name": "진홍 전갈"
+    },
+    {
+      "id": "avatar_020",
+      "path": "ui_common/card/profile_illust_020/spriteFrame",
+      "name": "청색 매"
+    }
+  ]
+}

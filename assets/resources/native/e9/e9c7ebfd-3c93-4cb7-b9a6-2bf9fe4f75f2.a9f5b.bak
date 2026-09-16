@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "_주석_블라인드": "방 만들기 팝업의 블라인드 선택 목록. buyInMin/Max 는 BB 배수(40BB~100BB)로 계산한다.",
+  "blinds": [
+    {
+      "id": "b_50_100",
+      "smallBlind": 50,
+      "bigBlind": 100,
+      "label": "50/100"
+    },
+    {
+      "id": "b_100_200",
+      "smallBlind": 100,
+      "bigBlind": 200,
+      "label": "100/200"
+    },
+    {
+      "id": "b_500_1000",
+      "smallBlind": 500,
+      "bigBlind": 1000,
+      "label": "500/1K"
+    },
+    {
+      "id": "b_1000_2000",
+      "smallBlind": 1000,
+      "bigBlind": 2000,
+      "label": "1K/2K"
+    },
+    {
+      "id": "b_5000_10000",
+      "smallBlind": 5000,
+      "bigBlind": 10000,
+      "label": "5K/10K"
+    }
+  ],
+  "_주석_바이인": "테이블에 앉을 때 가져갈 칩. BB 의 배수로 지정한다.",
+  "buyIn": {
+    "minBB": 40,
+    "maxBB": 100,
+    "defaultBB": 100,
+    "stepBB": 5
+  },
+  "_주석_인원": "배치된 좌석이 7개(mySeat + Seat01~06)라 최대 7인까지만 가능하다.",
+  "maxPlayers": [
+    {
+      "value": 2,
+      "label": "헤즈업 (2인)"
+    },
+    {
+      "value": 6,
+      "label": "6-max (6인)"
+    },
+    {
+      "value": 7,
+      "label": "풀링 (7인)"
+    }
+  ],
+  "actionSeconds": [
+    10,
+    15,
+    20,
+    30
+  ],
+  "ante": [
+    {
+      "id": "none",
+      "label": "없음",
+      "percentOfBB": 0
+    },
+    {
+      "id": "bb10",
+      "label": "BB의 10%",
+      "percentOfBB": 10
+    }
+  ],
+  "_주석_기본값": "방 만들기 팝업을 처음 열었을 때 선택되어 있을 값",
+  "defaults": {
+    "blindId": "b_100_200",
+    "anteId": "none",
+    "buyInBB": 100,
+    "maxPlayers": 6,
+    "actionSeconds": 20,
+    "timeBank": true,
+    "isPrivate": false,
+    "straddle": false,
+    "minStartPlayers": 2
+  }
+}

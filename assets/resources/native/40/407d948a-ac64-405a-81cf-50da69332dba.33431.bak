@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "_주석_성향값": "aggression=공격성, bluff=블러프 확률, tightness=타이트함(높을수록 좋은 패만 참여), simulations=몬테카를로 시뮬레이션 횟수, mistake=일부러 실수할 확률",
+  "profiles": {
+    "easy": {
+      "name": "초보 AI",
+      "aggression": 0.3,
+      "bluff": 0.05,
+      "tightness": 0.4,
+      "simulations": 200,
+      "mistake": 0.15,
+      "thinkMinSec": 0.6,
+      "thinkMaxSec": 1.8
+    },
+    "normal": {
+      "name": "보통 AI",
+      "aggression": 0.5,
+      "bluff": 0.1,
+      "tightness": 0.5,
+      "simulations": 500,
+      "mistake": 0.05,
+      "thinkMinSec": 0.8,
+      "thinkMaxSec": 2.5
+    },
+    "hard": {
+      "name": "고수 AI",
+      "aggression": 0.65,
+      "bluff": 0.15,
+      "tightness": 0.55,
+      "simulations": 1000,
+      "mistake": 0,
+      "thinkMinSec": 1,
+      "thinkMaxSec": 3
+    }
+  },
+  "_주석_닉네임": "AI 에게 무작위로 붙여줄 이름. 아바타도 avatars.json 에서 무작위로 고른다.",
+  "nicknames": [
+    "Jack",
+    "Mika",
+    "Leo",
+    "Nova",
+    "Riko",
+    "Sable",
+    "Toby",
+    "Vera",
+    "Ace",
+    "Bolt",
+    "Cleo",
+    "Dex",
+    "Echo",
+    "Finn",
+    "Gale",
+    "Hugo",
+    "Iris",
+    "Juno",
+    "Kai",
+    "Luna"
+  ]
+}
